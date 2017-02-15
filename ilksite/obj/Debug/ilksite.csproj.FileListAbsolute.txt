@@ -31,3 +31,36 @@ c:\users\yapı123\documents\visual studio 2015\Projects\ilksite\ilksite\bin\Micr
 c:\users\yapı123\documents\visual studio 2015\Projects\ilksite\ilksite\obj\Debug\ilksite.csprojResolveAssemblyReference.cache
 c:\users\yapı123\documents\visual studio 2015\Projects\ilksite\ilksite\obj\Debug\ilksite.dll
 c:\users\yapı123\documents\visual studio 2015\Projects\ilksite\ilksite\obj\Debug\ilksite.pdb
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\ApplicationInsights.config
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\roslyn\csc.exe
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\roslyn\vbc.exe
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\ilksite.dll.config
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\ilksite.dll
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\ilksite.pdb
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\Microsoft.AI.Web.dll
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\Microsoft.AI.Web.xml
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\obj\Debug\ilksite.csprojResolveAssemblyReference.cache
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\obj\Debug\ilksite.dll
+C:\Users\Stüdyo1\Desktop\ilksite\YemeginBenden\ilksite\obj\Debug\ilksite.pdb
